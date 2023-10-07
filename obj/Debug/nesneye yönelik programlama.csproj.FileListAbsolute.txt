@@ -1,0 +1,10 @@
+C:\Users\cemre\OneDrive\Masaüstü\vs uygulamaları\nesneye yönelik programlama\nesneye yönelik programlama\bin\Debug\nesneye yönelik programlama.exe.config
+C:\Users\cemre\OneDrive\Masaüstü\vs uygulamaları\nesneye yönelik programlama\nesneye yönelik programlama\bin\Debug\nesneye yönelik programlama.exe
+C:\Users\cemre\OneDrive\Masaüstü\vs uygulamaları\nesneye yönelik programlama\nesneye yönelik programlama\bin\Debug\nesneye yönelik programlama.pdb
+C:\Users\cemre\OneDrive\Masaüstü\vs uygulamaları\nesneye yönelik programlama\nesneye yönelik programlama\obj\Debug\nesneye yönelik programlama.csproj.AssemblyReference.cache
+C:\Users\cemre\OneDrive\Masaüstü\vs uygulamaları\nesneye yönelik programlama\nesneye yönelik programlama\obj\Debug\nesneye_yönelik_programlama.Form1.resources
+C:\Users\cemre\OneDrive\Masaüstü\vs uygulamaları\nesneye yönelik programlama\nesneye yönelik programlama\obj\Debug\nesneye_yönelik_programlama.Properties.Resources.resources
+C:\Users\cemre\OneDrive\Masaüstü\vs uygulamaları\nesneye yönelik programlama\nesneye yönelik programlama\obj\Debug\nesneye yönelik programlama.csproj.GenerateResource.cache
+C:\Users\cemre\OneDrive\Masaüstü\vs uygulamaları\nesneye yönelik programlama\nesneye yönelik programlama\obj\Debug\nesneye yönelik programlama.csproj.CoreCompileInputs.cache
+C:\Users\cemre\OneDrive\Masaüstü\vs uygulamaları\nesneye yönelik programlama\nesneye yönelik programlama\obj\Debug\nesneye yönelik programlama.exe
+C:\Users\cemre\OneDrive\Masaüstü\vs uygulamaları\nesneye yönelik programlama\nesneye yönelik programlama\obj\Debug\nesneye yönelik programlama.pdb
