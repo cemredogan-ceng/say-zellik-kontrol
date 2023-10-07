@@ -1,1 +1,1 @@
-# say-zellik-kontrol
+# sayi-ozellik-kontrol
